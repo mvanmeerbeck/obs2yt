@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vite/
+build/
+*.min.js
+*.min.css
+package-lock.json
+yarn.lock
+google-service-key.json
+youtube-tokens.json
